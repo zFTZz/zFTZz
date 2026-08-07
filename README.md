@@ -8,7 +8,7 @@ Estudante de Ciência da Computação no IFNMG e entusiasta de segurança cibern
 - 📫 **Como me contatar:** (https://www.linkedin.com/in/felipe-tomaz-1009bb418/)
 - ⚡ **Algo sobre mim:** Gosto de resolver desafios de CTF e automatizar tarefas do dia a dia.
 
-### 📚 Em constante aprendizado:
+### Em constante aprendizado:
 Atualmente, utilizo os guias da comunidade **He4rt Developers (4noobs)** para consolidar meus conhecimentos em:
 - **Linux:** Comandos essenciais e gerenciamento de permissões.
 - **Redes:** Protocolos básicos e funcionamento da internet.
