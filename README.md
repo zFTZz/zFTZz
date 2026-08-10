@@ -1,4 +1,4 @@
-### Olá! Sou o Luiz Felipe 👋
+### Olá! Felipe aq.
 
 Estudante de Ciência da Computação no IFNMG e entusiasta de segurança cibernética. Estou em busca de oportunidades de estágio onde eu possa aplicar meus conhecimentos e crescer na área técnica.
 
