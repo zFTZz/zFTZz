@@ -1,14 +1,31 @@
-### Olá! Felipe aq.
+# Felipe | Security Researcher & Computer Science Student
 
-Estudante de Ciência da Computação no IFNMG e entusiasta de segurança cibernética. Estou em busca de oportunidades de estágio onde eu possa aplicar meus conhecimentos e crescer na área técnica.
+Estudante de Ciência da Computação no **IFNMG** (5º período) focado em **Segurança Ofensiva (Red Team)** e práticas de **Purple Team**. 
 
-- 🔭 **Focado em:** Segurança da Informação, Blue Team e Infraestrutura.
-- 🌱 **Aprendendo:** Linux (médio), Python, C e práticas de SOC (Security Operations Center).
-- 💻 **Minhas ferramentas:** Git, VS Code, Linux (Debian/Kali).
-- 📫 **Como me contatar:** (https://www.linkedin.com/in/felipe-tomaz-1009bb418/)
-- ⚡ **Algo sobre mim:** Gosto de resolver desafios de CTF e automatizar tarefas do dia a dia.
+Praticante ativo de laboratórios práticos no Hack The Box, desenvolvendo ferramentas utilitárias em C e scripts de automação em Python para enumeração e auditoria de sistemas.
 
-### Em constante aprendizado:
-Atualmente, utilizo os guias da comunidade **He4rt Developers (4noobs)** para consolidar meus conhecimentos em:
-- **Linux:** Comandos essenciais e gerenciamento de permissões.
-- **Redes:** Protocolos básicos e funcionamento da internet.
+---
+
+### 🎯 Foco & Certificações
+- 🛡️ **Hack The Box:** CJCA (Certified Junior Cybersecurity Analyst) — *Em conclusão*
+- ⚔️ **Trilha Técnica:** HTB CPTS (Certified Penetration Testing Specialist) — *Em andamento*
+- 📜 **Fundamentos:** Cisco Certified Support Technician (Cybersecurity) & Hackers do Bem
+
+---
+
+### 🛠️ Competências Técnicas
+
+- **Linguagens:** C (WinAPI, manipulação de ponteiros e memória), Python (automação ofensiva, scripts de rede), Bash, PowerShell.
+- **Segurança Ofensiva:** Metodologia de Reconhecimento, Exploração Web (OWASP Top 10), Auditoria e Enumeração em Active Directory, Escalação de Privilégios (Linux/Windows).
+- **Ferramentas & Ambientes:** Kali Linux, Nmap, Burp Suite, Metasploit Framework, Impacket, Wireshark, Splunk.
+
+---
+
+### 📌 Repositórios em Destaque
+*(Em breve: Ferramentas de auditoria em C, scripts assíncronos em Python e write-ups técnicos de máquinas HTB)*
+
+---
+
+### 📬 Contato Profissional
+- **LinkedIn:** [linkedin.com/in/felipe-tomaz-1009bb418](https://www.linkedin.com/in/felipe-tomaz-1009bb418/)
+- **Hack The Box:** [Seu Usuário HTB aqui]
