@@ -1,6 +1,6 @@
 # Felipe | Security Researcher & Computer Science Student
 
-studante de Ciência da Computação no **IFNMG** (**5º** período) focado em **Segurança Ofensiva (Red Team)**, **Segurança Defensiva (Blue Team)** e práticas de **Purple Team**.
+Estudante de Ciência da Computação no **IFNMG** (**5º** período) focado em **Segurança Ofensiva (Red Team)**, **Segurança Defensiva (Blue Team)** e práticas de **Purple Team**.
 
 Praticante ativo de laboratórios práticos no Hack The Box, desenvolvendo ferramentas utilitárias em C e scripts de automação em Python para enumeração e auditoria de sistemas.
 
