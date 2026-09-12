@@ -27,5 +27,5 @@ Praticante ativo de laboratórios práticos no Hack The Box, desenvolvendo ferra
 ---
 
 ### 📬 Contato Profissional
-- **LinkedIn:** [linkedin.com/in/felipe-tomaz-1009bb418](https://www.linkedin.com/in/felipe-tomaz-1009bb418/)
+- **LinkedIn:** [Meu linkedin](https://www.linkedin.com/in/felipe-tomaz-1009bb418/)
 - **Hack The Box:** [Meu Perfil HTB](https://profile.hackthebox.com/profile/019ee720-b5de-734e-a936-509f6570a520)
